@@ -24,8 +24,3 @@
     - It's bad design, when the components know too much about each other
     - The pattern requires special treatment in a multithreaded environment so that multiple threads won’t create a singleton object several times.
     - Difficult to unit test because many test frameworks rely on inheritance when producing mock objects
-
-Các đảng cô hồn mình ơi,
-Chơi xong về keó cháu mình qua đây,
-Tôi là Hương Nguyễn nhé này,
-Tỉa lông, tạt nước hảo ngay thôi nào! 
